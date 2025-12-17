@@ -1,0 +1,12 @@
+.yarn
+node_modules
+dist
+.env
+.DS_Store
+.vscode
+*.log
+coverage
+
+.pnpm-store
+.pnp.*
+.idea
